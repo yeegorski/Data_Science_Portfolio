@@ -1,5 +1,5 @@
 # Yegor Ganin: My Data Science Portfolio
-Data Science Portfolio
+Here you may find my completed and ongoing projects.
 
 # [Project 1: Send-a-Tree Mobile Application: Project Overview](https://github.com/yeegorski/send-a-tree)
 * Setted up a data server
