@@ -3,7 +3,7 @@
 * Downloaded and cleaned the data
 * Automated daily dataload
 * Performed segment, funnel, and cohort analyses
-* Visualized the data in Goodle Data Studio
+* Visualized the data in Google Data Studio
 * Predicted the number of registrations in the app with linear regression
 * Predicted missing data with Random Forests (classification) 
 
