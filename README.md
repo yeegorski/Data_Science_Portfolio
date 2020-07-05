@@ -13,3 +13,8 @@
 * Analyzed trends and important metrics
 * Performed segment and funnel analyses
 
+
+# [Project 3: Titanic Dataset (Kaggle)](https://github.com/yeegorski/titanic_logistic)
+* Performed EDA, data cleaning, and feature engineering
+* Predicted with the values with logistic regression model
+
