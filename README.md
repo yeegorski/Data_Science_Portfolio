@@ -1,4 +1,9 @@
-# [Project 1: Send-a-Tree Mobile Application: Project Overview](https://github.com/yeegorski/send-a-tree)
+# [Project 1: Titanic Dataset (Kaggle)](https://github.com/yeegorski/titanic_logistic)
+* Performed EDA, data cleaning, and feature engineering (Python)
+* Predicted survivals of the passengers using logistic regression model (Python)
+
+
+# [Project 2: Send-a-Tree Mobile Application: Project Overview](https://github.com/yeegorski/send-a-tree)
 * Setted up a data server
 * Downloaded and cleaned the data (bash)
 * Automated daily dataload (bash)
@@ -8,14 +13,9 @@
 * Predicted missing data with Random Forests (classification) (Python)
 
 
-# [Project 2: Travel Blog: Project Overview](https://github.com/yeegorski/dilans-travel-guide)
+# [Project 3: Travel Blog: Project Overview](https://github.com/yeegorski/dilans-travel-guide)
 * Downloaded and cleaned the data (bash)
 * Analyzed trends and important metrics (SQL)
 * Performed segment and funnel analyses (SQL)
-
-
-# [Project 3: Titanic Dataset (Kaggle)](https://github.com/yeegorski/titanic_logistic)
-* Performed EDA, data cleaning, and feature engineering (Python)
-* Predicted survivals of the passengers using logistic regression model (Python)
 
 
