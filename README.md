@@ -18,4 +18,9 @@
 * Analyzed trends and important metrics (SQL)
 * Performed segment and funnel analyses (SQL)
 
+# [Project 4: LendingClub Dataset (Kaggle)](https://github.com/yeegorski/tf_lending_club)
+* Performed EDA, data preprocessing (missing data, categorical data, train-test split, data normalizing) (Python)
+* Engineered features from the existing variables (Python)
+* Created and evaluated the model built using TensorFlow (Python)
+
 
